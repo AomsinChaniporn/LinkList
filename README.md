@@ -1,0 +1,2 @@
+# LinkList
+Structure Assignment1
